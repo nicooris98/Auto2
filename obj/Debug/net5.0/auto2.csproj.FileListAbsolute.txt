@@ -1,0 +1,16 @@
+/home/oris/Informatica/c#/auto2/bin/Debug/net5.0/auto2
+/home/oris/Informatica/c#/auto2/bin/Debug/net5.0/auto2.deps.json
+/home/oris/Informatica/c#/auto2/bin/Debug/net5.0/auto2.runtimeconfig.json
+/home/oris/Informatica/c#/auto2/bin/Debug/net5.0/auto2.runtimeconfig.dev.json
+/home/oris/Informatica/c#/auto2/bin/Debug/net5.0/auto2.dll
+/home/oris/Informatica/c#/auto2/bin/Debug/net5.0/ref/auto2.dll
+/home/oris/Informatica/c#/auto2/bin/Debug/net5.0/auto2.pdb
+/home/oris/Informatica/c#/auto2/obj/Debug/net5.0/auto2.csproj.AssemblyReference.cache
+/home/oris/Informatica/c#/auto2/obj/Debug/net5.0/auto2.GeneratedMSBuildEditorConfig.editorconfig
+/home/oris/Informatica/c#/auto2/obj/Debug/net5.0/auto2.AssemblyInfoInputs.cache
+/home/oris/Informatica/c#/auto2/obj/Debug/net5.0/auto2.AssemblyInfo.cs
+/home/oris/Informatica/c#/auto2/obj/Debug/net5.0/auto2.csproj.CoreCompileInputs.cache
+/home/oris/Informatica/c#/auto2/obj/Debug/net5.0/auto2.dll
+/home/oris/Informatica/c#/auto2/obj/Debug/net5.0/ref/auto2.dll
+/home/oris/Informatica/c#/auto2/obj/Debug/net5.0/auto2.pdb
+/home/oris/Informatica/c#/auto2/obj/Debug/net5.0/auto2.genruntimeconfig.cache
